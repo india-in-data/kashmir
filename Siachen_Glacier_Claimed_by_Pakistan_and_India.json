@@ -1,0 +1,259 @@
+{
+    "type": "Feature",
+    "id": "39",
+    "properties": {
+        "featurecla": "Admin-0 indeterminant",
+        "scalerank": 0,
+        "LABELRANK": 5,
+        "SOVEREIGNT": "Kashmir",
+        "SOV_A3": "KAS",
+        "ADM0_DIF": 0,
+        "LEVEL": 2,
+        "TYPE": "Indeterminate",
+        "ADMIN": "Siachen Glacier",
+        "ADM0_A3": "KAS",
+        "GEOU_DIF": 0,
+        "GEOUNIT": "Siachen Glacier",
+        "GU_A3": "KAS",
+        "SU_DIF": 0,
+        "SUBUNIT": "Siachen Glacier",
+        "SU_A3": "KAS",
+        "BRK_DIFF": 1,
+        "NAME": "Siachen Glacier",
+        "NAME_LONG": "Siachen Glacier",
+        "BRK_A3": "B45",
+        "BRK_NAME": "Siachen Glacier",
+        "BRK_GROUP": "Jammu and Kashmir",
+        "ABBREV": "Siachen",
+        "POSTAL": "SG",
+        "FORMAL_EN": null,
+        "FORMAL_FR": null,
+        "NAME_CIAWF": null,
+        "NOTE_ADM0": null,
+        "NOTE_BRK": "Claimed by Pakistan and India",
+        "NAME_SORT": "Kashmir",
+        "NAME_ALT": null,
+        "MAPCOLOR7": 3,
+        "MAPCOLOR8": 7,
+        "MAPCOLOR9": 6,
+        "MAPCOLOR13": -99,
+        "POP_EST": 6000.0,
+        "POP_RANK": 5,
+        "GDP_MD_EST": 15.0,
+        "POP_YEAR": 2013,
+        "LASTCENSUS": -99,
+        "GDP_YEAR": 2013,
+        "ECONOMY": "6. Developing region",
+        "INCOME_GRP": "4. Lower middle income",
+        "WIKIPEDIA": -99,
+        "FIPS_10_": "-99",
+        "ISO_A2": "-99",
+        "ISO_A3": "-99",
+        "ISO_A3_EH": "-99",
+        "ISO_N3": "-99",
+        "UN_A3": "-099",
+        "WB_A2": "-99",
+        "WB_A3": "-99",
+        "WOE_ID": 23424928,
+        "WOE_ID_EH": 23424928,
+        "WOE_NOTE": "Exact WOE match as country",
+        "ADM0_A3_IS": "-99",
+        "ADM0_A3_US": "KAS",
+        "ADM0_A3_UN": -99,
+        "ADM0_A3_WB": -99,
+        "CONTINENT": "Asia",
+        "REGION_UN": "Asia",
+        "SUBREGION": "Southern Asia",
+        "REGION_WB": "South Asia",
+        "NAME_LEN": 15,
+        "LONG_LEN": 15,
+        "ABBREV_LEN": 7,
+        "TINY": -99,
+        "HOMEPART": 1,
+        "MIN_ZOOM": 5.0,
+        "MIN_LABEL": 6.5,
+        "MAX_LABEL": 9.5,
+        "NE_ID": 1159320963,
+        "WIKIDATAID": "Q333946",
+        "NAME_AR": "\u0646\u0647\u0631 \u0633\u064a\u0627\u062a\u0634\u0646 \u0627\u0644\u062c\u0644\u064a\u062f\u064a",
+        "NAME_BN": "\u09b8\u09bf\u09af\u09bc\u09be\u099a\u09c7\u09a8 \u09b9\u09bf\u09ae\u09ac\u09be\u09b9",
+        "NAME_DE": "Siachen-Gletscher",
+        "NAME_EN": "Siachen Glacier",
+        "NAME_ES": "Glaciar de Siachen",
+        "NAME_FR": "Glacier de Siachen",
+        "NAME_EL": "\u03a0\u03b1\u03b3\u03b5\u03c4\u03ce\u03bd\u03b1\u03c2 \u03a3\u03b9\u03b1\u03c4\u03c3\u03ad\u03bd",
+        "NAME_HI": "\u0938\u093f\u092f\u093e\u091a\u0940\u0928",
+        "NAME_HU": "Siachen-gleccser",
+        "NAME_ID": "Siachen Glacier",
+        "NAME_IT": "ghiacciaio Siachen",
+        "NAME_JA": "\u30b7\u30a2\u30c1\u30a7\u30f3\u6c37\u6cb3",
+        "NAME_KO": "\uc2dc\uc544\uccb8 \ube59\ud558",
+        "NAME_NL": "Siachengletsjer",
+        "NAME_PL": "Lodowiec Siachen",
+        "NAME_PT": "Glaciar de Siachen",
+        "NAME_RU": "\u0421\u0438\u0430\u0447\u0435\u043d",
+        "NAME_SV": "Siachen Glaci\u00e4ren",
+        "NAME_TR": "Siachen Buzulu",
+        "NAME_VI": "S\u00f4ng b\u0103ng Siachen",
+        "NAME_ZH": "\u9521\u4e9a\u7434\u51b0\u5ddd"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    77.04897098800006,
+                    35.110441997000024
+                ],
+                [
+                    76.91316086450013,
+                    35.37827685550006
+                ],
+                [
+                    76.77735074100008,
+                    35.6461117140001
+                ],
+                [
+                    76.78283736200007,
+                    35.64573232000008
+                ],
+                [
+                    76.82459191900011,
+                    35.647799378000045
+                ],
+                [
+                    76.84298872900013,
+                    35.64128814800007
+                ],
+                [
+                    76.85694136500013,
+                    35.62857574500002
+                ],
+                [
+                    76.88050581900012,
+                    35.60067047200003
+                ],
+                [
+                    76.89642216000004,
+                    35.58961171500003
+                ],
+                [
+                    76.91502567600008,
+                    35.58315216100006
+                ],
+                [
+                    76.93579960200003,
+                    35.579638164000116
+                ],
+                [
+                    76.97641727700005,
+                    35.578656312000035
+                ],
+                [
+                    77.01755171800005,
+                    35.58459910100005
+                ],
+                [
+                    77.03904911300009,
+                    35.58501251200006
+                ],
+                [
+                    77.05816939300007,
+                    35.58010325200003
+                ],
+                [
+                    77.07108850100008,
+                    35.571008199000076
+                ],
+                [
+                    77.09227583900014,
+                    35.54780548200007
+                ],
+                [
+                    77.10529829900008,
+                    35.537986959000094
+                ],
+                [
+                    77.14126509600004,
+                    35.525377910000074
+                ],
+                [
+                    77.17754195100014,
+                    35.52315582300007
+                ],
+                [
+                    77.25081913300005,
+                    35.53070058200011
+                ],
+                [
+                    77.28110152200009,
+                    35.52801340800009
+                ],
+                [
+                    77.30538944500006,
+                    35.51783315100003
+                ],
+                [
+                    77.35200158700013,
+                    35.48605214500007
+                ],
+                [
+                    77.38373091600005,
+                    35.47199615500007
+                ],
+                [
+                    77.41277307100012,
+                    35.46941233300005
+                ],
+                [
+                    77.47643843600014,
+                    35.47716379800006
+                ],
+                [
+                    77.51219852700007,
+                    35.478455709000016
+                ],
+                [
+                    77.51960817800011,
+                    35.47743920400002
+                ],
+                [
+                    77.66061324100008,
+                    35.45809519500007
+                ],
+                [
+                    77.68965539600009,
+                    35.46269439700005
+                ],
+                [
+                    77.71673384600012,
+                    35.47540680000007
+                ],
+                [
+                    77.74742964700005,
+                    35.494320374000026
+                ],
+                [
+                    77.76034875500005,
+                    35.49809275300005
+                ],
+                [
+                    77.77357792200007,
+                    35.49897125299999
+                ],
+                [
+                    77.80034631400014,
+                    35.49540557900012
+                ],
+                [
+                    77.42465865100007,
+                    35.302923788000115
+                ],
+                [
+                    77.04897098800006,
+                    35.110441997000024
+                ]
+            ]
+        ]
+    }
+}
